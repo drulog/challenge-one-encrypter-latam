@@ -162,6 +162,7 @@ main {
   padding-bottom: 0.75rem;
   flex-direction: column;
   flex-grow: 1;
+  margin-bottom: 50px;
 }
 
 main .content {
@@ -368,9 +369,11 @@ aside .actions .decrypt {
 }
 
 .tool {
+  position: fixed;
+  bottom: 0;
   display: flex;
   width: 100%;
-  flex-direction: row;
+  flex-direction: rwo;
   justify-content: space-between;
   gap: 0.5rem;
   padding: 0.5rem;
@@ -406,6 +409,7 @@ aside .actions .decrypt {
     padding: 0;
     flex-direction: row;
     gap: 0.75rem;
+    margin-bottom: 0;
   }
 
   main .content {
