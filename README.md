@@ -4,8 +4,8 @@
      <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/screenshot.png">
 </p>
 <p align="center" >
-     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile.jpeg">
-     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile-config.jpeg">
+     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile.jpeg" width="400">
+     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile-config.jpeg" width="400">
 </p>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
