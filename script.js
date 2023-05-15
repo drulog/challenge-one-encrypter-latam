@@ -115,7 +115,7 @@ function copy() {
 }
 
 
-function parameters() {
+function parameters(event) {
 
     const content = getSelector('.content');
     const parameters = getSelector('.parameters');
@@ -124,10 +124,13 @@ function parameters() {
         parameters.classList.remove('show');
         content.classList.remove('close');
         configParameters = false
+
+        event.target.innerHTML = 'config'
     } else {
         parameters.classList.add('show');
         content.classList.add('close');
         configParameters = true
+        event.target.innerHTML = 'close'
     }
 
 }
