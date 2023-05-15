@@ -22,7 +22,7 @@ function init() {
 
     onclick('.encrypt', encrypt)
     onclick('.decrypt', decrypt)
-    onclick('.resset', reset)
+    onclick('.reset', reset)
     onclick('.copy', copy)
     onclick('.config', parameters)
 
