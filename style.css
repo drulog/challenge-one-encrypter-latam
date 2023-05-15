@@ -373,7 +373,7 @@ aside .actions .decrypt {
   bottom: 0;
   display: flex;
   width: 100%;
-  flex-direction: rwo;
+  flex-direction: row;
   justify-content: space-between;
   gap: 0.5rem;
   padding: 0.5rem;
