@@ -116,7 +116,6 @@ function copy() {
 
 
 function parameters(event) {
-
     const content = getSelector('.content');
     const parameters = getSelector('.parameters');
 
@@ -152,11 +151,9 @@ function encrypt() {
 }
 
 function decrypt() {
-
     let text = message.value,
         decrypted = '',
         count = 0
-
 
     while (count < text.length) {
         let letter = text[count],
@@ -179,6 +176,5 @@ function decrypt() {
 
     result.innerText = decrypted
 }
-
 
 init()
