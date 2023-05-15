@@ -1,11 +1,11 @@
 
 # Challenge Encrypter Latam | Oracle + Alura
 <p align="center" >
-     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/screenshot.png">
+     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/assets/screenshot.png">
 </p>
 <p align="center">
-     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile.jpeg" width="350">
-     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile-config.jpeg" width="350">
+     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/assets/mobile.jpeg" width="350">
+     <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/assets/mobile-config.jpeg" width="350">
 </p>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge"/>
