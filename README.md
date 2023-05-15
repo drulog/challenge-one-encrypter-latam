@@ -3,7 +3,7 @@
 <p align="center" >
      <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/screenshot.png">
 </p>
-<p align="center" style="display: flex; justify-content: space-between;">
+<p align="center">
      <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile.jpeg" width="350">
      <img src="https://raw.githubusercontent.com/drulog/challenge-one-encrypter-latam/main/mobile-config.jpeg" width="350">
 </p>
