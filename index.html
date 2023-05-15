@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Encrypter</title>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/normalize.css@8.0.1/normalize.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <div class="page">
+      <div class="navigation">
+        <header>
+          <strong>encrypter: alura + One</strong>
+          <div>
+            <button class="button config">Config</button>
+          </div>
+        </header>
+      </div>
+
+      <main>
+        <div class="content">
+          <div class="panel">
+            <div class="message">
+              <p>Input</p>
+              <span class="wrapper">
+                <textarea id="message" placeholder="Enter message"></textarea>
+              </span>
+            </div>
+            <div class="output">
+              <div class="container">
+                <div>
+                  <p>Output</p>
+                </div>
+                <div class="wrapper">
+                  <textarea readonly id="result"></textarea>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <aside>
+          <div class="panel parameters">
+            <section>
+              <p class="title">Parameters</p>
+
+              <ul class="list-group" id="list"></ul>
+
+              <div style="margin-bottom: 0.5rem">
+                <small>Rules:</small><br />
+                <small>* Case sensitive</small>
+                <br />
+              </div>
+              <form id="form">
+                <input
+                  class="key"
+                  type="text"
+                  id="claveInput"
+                  placeholder="Letter"
+                />
+                <input
+                  class="value"
+                  type="text"
+                  id="valorInput"
+                  placeholder="Value"
+                />
+                <button class="button" type="submit">add</button>
+                <button type="button" class="button white resset">
+                  resset
+                </button>
+              </form>
+            </section>
+          </div>
+
+          <div class="panel actions">
+            <p class="title">Control Actions</p>
+            <div class="notification">Result copied successfully</div>
+
+            <button class="button encrypt">encrypt</button>
+            <button class="button white decrypt">decrypt</button>
+            <button class="button copy">copy</button>
+          </div>
+        </aside>
+      </main>
+
+      <div class="tool actions">
+        <button class="button encrypt">encrypt</button>
+        <button class="button white decrypt">decrypt</button>
+        <button class="button copy">copy</button>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
