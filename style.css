@@ -126,7 +126,7 @@ ul {
   flex-direction: column;
   flex: 1 1 0%;
   width: 100%;
-  height: 100vh;
+  height: 100%;
   margin-left: auto;
   margin-right: auto;
   background-color: #e9e6de;
