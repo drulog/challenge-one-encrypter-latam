@@ -14,7 +14,7 @@
 
 En este proyecto, se utilizó lo aprendido en los cursos `HTML -CSS - JAVASCRIPT` de Oracle Next Education & ALura Latam
 
-Se realizó una aplicación para encriptar y desencriptar texto, también se agregaron funcionalidades adiciónale:
+Se realizó una aplicación para encriptar y desencriptar texto, también se agregaron funcionalidades adiciónales :
 
 - Agregar y eliminar parámetros para el encriptado
 
